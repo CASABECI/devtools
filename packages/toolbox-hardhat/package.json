@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@ethersproject/abi": "^5.7.0",
-    "@ethersproject/address": "~5.7.0",
+    "@ethersproject/address": "~5.8.0",
     "@ethersproject/bytes": "^5.7.0",
     "@ethersproject/contracts": "^5.7.0",
     "@ethersproject/hash": "^5.7.0",
