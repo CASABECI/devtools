@@ -36,7 +36,7 @@
     "@ethersproject/contracts": "^5.7.0",
     "@ethersproject/hash": "^5.7.0",
     "@layerzerolabs/devtools": "~0.4.2",
-    "@layerzerolabs/devtools-evm": "~1.0.1",
+    "@layerzerolabs/devtools-evm": "~3.0.1",
     "@layerzerolabs/devtools-evm-hardhat": "~2.0.3",
     "@layerzerolabs/io-devtools": "~0.1.12",
     "@layerzerolabs/lz-definitions": "^3.0.21",
