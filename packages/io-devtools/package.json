@@ -40,7 +40,7 @@
     "chalk": "^4.1.2",
     "logform": "^2.6.0",
     "prompts": "^2.4.2",
-    "table": "~6.8.2",
+    "table": "~6.9.0",
     "winston": "^3.11.0"
   },
   "devDependencies": {
